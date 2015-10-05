@@ -1,4 +1,4 @@
 class TestClass
 {
-    var testVariable: Int = 2;
+    var testVariable: Int = 5;
 }
